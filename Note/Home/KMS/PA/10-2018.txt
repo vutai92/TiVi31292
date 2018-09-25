@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T02:04:26+07:00
+
+====== 10-2018 ======
+Created Friday 07 September 2018
+
+1. Sandata
+
+2. Elsevier
++ EAQ
+++ Feature
+* CQBQ 
+	* Full text search
+	* Edit CQBQ assignment
+* Facade (use feign client to route eaq-endpoint)
+* LO migration (scipt to migrate data to EAQ)
+* Copy Course Assignment Fearture
+* Sort Student within topic card
+* Add config to support ES6 for EAQ-app
+
+++ Bugfix
+* Front-end
+
++ Evolve
+* Assessibility feature
+* Bugfix: 
+
+
+Advantage:
+* Nice test coverage
+* Commend by customer:  your team is so good with the angular
+* Good communicate with customer dev
+* Fast learn and catch up new language and technology
+* Support a.Kiet write unit test 

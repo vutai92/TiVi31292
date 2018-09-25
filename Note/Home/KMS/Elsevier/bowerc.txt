@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T08:26:11+07:00
+
+====== bowerc ======
+Created Friday 07 September 2018
+
+{
+  "registry": {
+	"search": [
+	  "https://vutai92:AKCp5bB3WZcJ192nYXf3zAiRNYoW7nh4CFi1h3yJaVa9wapNDZTnbjQWsh6mdAtbRf3cVMZtp@elsols.artifactoryonline.com/elsols/api/bower/bower",
+	  "https://registry.bower.io"
+	]
+  },
+
+  "strict-ssl": false,
+
+  "resolvers": [
+	"bower-art-resolver"
+  ],
+  "directory": "src/bower_components"
+}

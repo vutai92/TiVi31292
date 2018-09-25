@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-01T10:10:09+07:00
+
+====== SetUp ======
+Created Wednesday 01 August 2018
+
+1. Two KMS Resources will include Hieu Dang and other FE dev (maybe Tuyen will move to different team). Most of tasks are stories with high priority.
+2. KMS Resources should have experiences in Angular 1.x
+3. KMS team will have to complete to setup the local apps which are related to Evolve Portal.
+4. Dawn will prepare for the first couple of stories for offshore to work on.
+5. Dawn please help send us the daily standup meeting link if any.
+6. The daily meeting will start on 9h30 AM EST (9h30 PM ICT).
+7. Offshore should tag Dawn and Solr to the PR.
+
+Project:
+[ ] education-porta
+[ ] evolve-link-app
+[ ] assessment-player-app

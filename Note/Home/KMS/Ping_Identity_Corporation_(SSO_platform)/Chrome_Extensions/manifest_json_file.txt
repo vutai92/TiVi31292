@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-10T10:09:19+07:00
+
+====== manifest json file ======
+Created Monday 10 September 2018
+
+Sample of simple manifest.json file
+{
+	"name": "Hello Extensions",
+	"description" : "Base Level Extension",
+	"version": "1.0",
+	//Developer should specify manifest_version = 2
+	//For more info https://developer.chrome.com/extensions/manifestVersion#manifest-v1-june2013 
+	"manifest_version": 2, 
+	"browser_action": {
+		"default_popup": "hello.html",
+		"default_icon": "hello_extensions.png"
+	}
+}

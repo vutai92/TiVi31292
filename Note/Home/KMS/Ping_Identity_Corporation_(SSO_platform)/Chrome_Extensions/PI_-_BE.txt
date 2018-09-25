@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-21T13:31:19+07:00
+
+====== PI - BE ======
+Created Friday 21 September 2018
+
+-Browser Extension
+++ Architechture:
+++++manifact.json
++++++Version: store version
++++++ background
++++++ Popup
++++++ content script: 
+++++++ 2 kind: manifact + tabs.executeScript
+
+Ping Identity - BE
+2 project: 
++ common-v2
++ [[/*global]] ....*/: inject global object (jquery search)
++ forge congig
++ sjcl.js: third party library - stanford javascript library: encrypt and decrypt
++ ie: BHO (browser helper object) c++ — Co.oop issue
+
+Dock: https://test-desktop.pingone.com/web-portal/login
+Admin Page: https://test-admin.pingone.com/web-portal/login
+
+Background.js
+++ appManager: manage app info (Extension config, id, ..)
+++ learn Handler + train Handler: 
+++++ train: execute when use webportal
+++++ learn: after train, when lauch from dock
+++ vaultManager: data trained
+++ tabManager: manage opened tab
+++ launchHandler: launch trained app from dock, 
+++ crptoEngine: encrypt and decrypt
+
+Extension.js
+++ fdManagementApplication : form discovery
++++ find all password element
++++ get all parent form of password element
++++ if password element have parent: 
++ support prompt
++ not support: multi space and multi step
+
+2 main flow: 
+++ training
+++ launch
+++ directly fill and sign in when open page directly
+console log message to see full flow
+
+execute_content_script: inject content scipt to page (include info of app)
+load_vault: load storage data (page url, usename, password, element,... ) then redirect to stored page url, fill in fields and login
+
+Test-envL
+++ test
+++ UAT 
+++ production
+
+Potential Issue:
+++ support new version.

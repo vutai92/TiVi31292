@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T08:30:12+07:00
+
+====== Note ======
+Created Friday 07 September 2018
+
+^
+$
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+Org Mode - Organize Your Life In Plain Text!
+http://doc.norang.ca/org-mode.html
+
+pretties json
+https://stedolan.github.io/jq/
+https://stedolan.github.io/jq/tutorial/
+
+tmux shortcuts & cheatsheet
+https://gist.github.com/MohamedAlaa/2961058
+
+need to do:
+xclip to clipboard windows
+
+https://github.com/angular-ui/ui-router/wiki/Quick-Reference#stategoto--toparams--options

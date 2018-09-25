@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T10:27:27+07:00
+
+====== Ping Identity Corporation (SSO platform) ======
+Created Friday 07 September 2018
+

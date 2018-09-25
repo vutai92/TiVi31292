@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T08:07:05+07:00
+
+====== Oh my zsh ======
+Created Friday 07 September 2018
+.zshrc
+| Plugin |
+|--------|
+| git  bundler  dotenv  osx  rake  rbenv  ruby  aws  bower  brew  bundler  docker  gem  git-extras  gradle  history  jira  jsontools  last-working-dir  mvn  ng  node  npm  python  rails  redis-cli  rvm  sudo  tmux  tmuxinator  web-search  yarn  yum  wd |

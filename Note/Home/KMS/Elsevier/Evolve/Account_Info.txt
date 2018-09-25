@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-01T16:36:32+07:00
+
+====== [Account Info] ======
+
+Created Wednesday 01 August 2018
+
+Faculty Test Account:
+* ngancute@mailinator.com
+* tvtest@mailinator.com
+Student Test Account
+cuongluu@mailinator.com
+tuonganh@mailinator.com
